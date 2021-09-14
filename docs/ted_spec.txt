@@ -1,0 +1,16 @@
+This information compile from:
+
+- memory map text file
+- programmers reference guide
+- http://plus4world.powweb.com/plus4encyclopedia/
+- https://www.dtech.lv/files_pgm/
+
+
+
+TED clocks:
+
+PAL 17.73447MHz
+NTSC 14.31818MHz
+
+8bit linear feedback shift register?
+
