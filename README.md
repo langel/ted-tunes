@@ -6,4 +6,4 @@ use `brew install dasm` to get dasm into global space
 
 you'll also need to add `/Applications/vice-gtk3-3.5/bin` to your path
 
-`osx_makerun {project_name}` will build and autoload into xplus4
+`./osx_makerun {project_name}` will build and autoload into xplus4
