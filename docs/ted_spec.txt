@@ -14,3 +14,6 @@ NTSC 14.31818MHz
 
 8bit linear feedback shift register?
 
+
+$ff12 65298  defaults to #$04
+             keep text/screen ram the same with #$04
