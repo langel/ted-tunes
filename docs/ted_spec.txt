@@ -6,6 +6,8 @@ This information compile from:
 - https://www.dtech.lv/files_pgm/
 
 
+reading TED registers always returns #$eb ?
+
 
 TED clocks:
 
